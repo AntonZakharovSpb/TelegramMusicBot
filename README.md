@@ -1,2 +1,2 @@
-# TelegramMusicBot
+# TelegramUSDBot
 Мой собственный тестовый репозиторий с ботом
